@@ -34,3 +34,6 @@ categories: ["Безопасность"]
 Давайте посмотрим на изображение ниже, как вещи связаны в этом сценарии (скорее всего!);
 
 ![sg1](/static/img/sg1-01.png)
+![Example image](/static/img/sg1-01.png)
+![Example image](https://user-images.githubusercontent.com/102430482/187322790-5414f21f-5bc3-459d-a2a0-9c2a86e4e291.png)
+![Example image](user-images.githubusercontent.com/102430482/187322790-5414f21f-5bc3-459d-a2a0-9c2a86e4e291.png)
