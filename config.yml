@@ -4,16 +4,25 @@ title: DevMod
 theme: PaperMod
 
 params:
-  homeInfoParams:
-    Title: "Hello Stranger"
-    Content: Welcome to my blog. Here you'll find a lot of cool information about a lot of cool stuff.
-  socialIcons:
-    - name: facebook
-      url: "https://facebook.com/"
-    - name: twitter
-      url: "https://twitter.com/"
-    - name: github
-      url: "https://github.com/"
+    profileMode:
+        enabled: true
+        title: "<Title>" # optional default will be site title
+        subtitle: "This is subtitle"
+        imageUrl: "<image link>" # optional
+        imageTitle: "<title of image as alt>" # optional
+        imageWidth: 120 # custom size
+        imageHeight: 120 # custom size
+        buttons:
+            - name: Archive
+            url: "/archive"
+            - name: Github
+            url: "https://github.com/"
+
+    socialIcons: # optional
+        - name: "<platform>"
+            url: "<link>"
+        - name: "<platform 2>"
+            url: "<link2>"
 
   cover:
     linkFullImages: true
