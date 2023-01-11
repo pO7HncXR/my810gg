@@ -7,20 +7,20 @@ params:
   profileMode:
     enabled: true
     title: "DevMod" # optional default will be site title
-    subtitle: "This is subtitle"
-    imageUrl: "<image link>" # optional
-    imageTitle: "<title of image as alt>" # optional
+    subtitle: "Minecraft server owner & developer"
+    imageUrl: "https://files.dotmix.pw/.assets/icons/dotmix-full.png" # optional
+    imageTitle: "DevLogo" # optional
     imageWidth: 120 # custom size
     imageHeight: 120 # custom size
     buttons:
-      - name: Archive
-        url: "/archive"
+      - name: Статьи
+        url: "/posts"
       - name: Github
         url: "https://github.com/"
   socialIcons:
-    - name: facebook
+    - name: vk
       url: "https://facebook.com/"
-    - name: twitter
+    - name: vkontakte
       url: "https://twitter.com/"
     - name: github
       url: "https://github.com/"
