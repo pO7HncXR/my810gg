@@ -6,10 +6,10 @@ theme: PaperMod
 params:
   profileMode:
   enabled: true
-      title: "<Title>" # optional default will be site title
+      title: "DevMod" # optional default will be site title
       subtitle: "This is subtitle"
-      imageUrl: "<image link>" # optional
-      imageTitle: "<title of image as alt>" # optional
+      imageUrl: "" # optional
+      imageTitle: "" # optional
       imageWidth: 120 # custom size
       imageHeight: 120 # custom size
       buttons:
