@@ -8,7 +8,7 @@ params:
     enabled: true
     title: "DevMod" # optional default will be site title
     subtitle: "Minecraft server owner & developer"
-    imageUrl: "https://files.dotmix.pw/.assets/icons/dotmix-full.png" # optional
+    imageUrl: "assets/logo.png" # optional
     imageTitle: "DevLogo" # optional
     imageWidth: 120 # custom size
     imageHeight: 120 # custom size
