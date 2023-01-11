@@ -10,8 +10,8 @@ params:
     subtitle: "Minecraft server owner & developer"
     imageUrl: "https://media.tenor.com/ases7WFpkUIAAAAM/cat-angela.gif" # optional
     imageTitle: "DevLogo" # optional
-    imageWidth: 220 # custom size
-    imageHeight: 220 # custom size
+    imageWidth: 120 # custom size
+    imageHeight: 120 # custom size
     buttons:
       - name: Статьи
         url: "/posts"
