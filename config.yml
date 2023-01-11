@@ -1,5 +1,5 @@
 baseURL: "https://lustrous-clafoutis-0b6e4b.netlify.app"
-languageCode: en-us
+languageCode: ru
 title: DevMod
 theme: PaperMod
 
@@ -15,11 +15,11 @@ params:
     buttons:
       - name: Статьи
         url: "/posts"
-      - name: Github
+      - name: Telegram
         url: "https://github.com/"
   # socialIcons:
-  #   - name: vk
-  #     url: "https://facebook.com/"
+  #   - name: telegram
+  #     url: "https://google.com/"
   #   - name: vkontakte
   #     url: "https://twitter.com/"
   #   - name: github
