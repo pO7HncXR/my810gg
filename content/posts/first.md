@@ -13,7 +13,8 @@ categories: ["tech"]
 # This is a heading one
 ## This is a heading two
 
-This is a paragraph?
-    .my-link {
-        text-decoration: underline;
-    }
+```ruby
+def hello
+   puts "Hello world!"
+end
+```
