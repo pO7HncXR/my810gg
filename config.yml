@@ -26,15 +26,11 @@ params:
   #     url: "https://github.com/"
 
   cover:
-    linkFullImages: true
+    linkFullImages: false
 
-  ShowBreadCrumbs: true
+  # ShowBreadCrumbs: true
 
-  ShowReadingTime: true
-
-  ShowShareButtons: true
-
-  ShowPostNavLinks: true
+  ShowCodeCopyButtons: true
 
 menu:
   main:
