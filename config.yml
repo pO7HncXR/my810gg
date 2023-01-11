@@ -1,4 +1,4 @@
-baseURL: "https://naughty-wiles-fd4c60.netlify.app"
+baseURL: "https://lustrous-clafoutis-0b6e4b.netlify.app"
 languageCode: en-us
 title: DevMod
 theme: PaperMod
@@ -38,15 +38,11 @@ params:
 
 menu:
   main:
-    - identifier: categories
-      name: Categories
-      url: /categories/
+    - identifier: posts
+      name: Статьи
+      url: /posts/
       weight: 10
-    - identifier: tags
-      name: Tags
-      url: /tags/
+    - identifier: about
+      name: Обо мне
+      url: /about/
       weight: 20
-    - identifier: archives
-      name: Archives
-      url: /archives/
-      weight: 30
