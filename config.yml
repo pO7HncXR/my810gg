@@ -8,7 +8,7 @@ params:
     enabled: true
     title: "DevMod" # optional default will be site title
     subtitle: "Minecraft server owner & developer"
-    imageUrl: "assets/logo.png" # optional
+    imageUrl: "https://sun9-50.userapi.com/impg/cL-ikDR14FGkA1nrMiSKvMOtu-ICyny5KjHdkA/PsL039hJt9Y.jpg?size=500x500&quality=96&sign=2ec953b73fbbcff2cd39e2afe0ba4f1d&type=album" # optional
     imageTitle: "DevLogo" # optional
     imageWidth: 120 # custom size
     imageHeight: 120 # custom size
