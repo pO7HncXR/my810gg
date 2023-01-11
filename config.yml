@@ -8,7 +8,7 @@ params:
     enabled: true
     title: "DevMod" # optional default will be site title
     subtitle: "Minecraft server owner & developer"
-    imageUrl: "https://media3.giphy.com/media/4ilFRqgbzbx4c/200.gif" # optional
+    imageUrl: "https://steamuserimages-a.akamaihd.net/ugc/949599512600537346/10AF91C3120D444569F4F7DA3BDA9E2630831D0A/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" # optional
     imageTitle: "DevLogo" # optional
     imageWidth: 120 # custom size
     imageHeight: 120 # custom size
