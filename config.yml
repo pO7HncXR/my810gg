@@ -17,13 +17,13 @@ params:
         url: "/posts"
       - name: Github
         url: "https://github.com/"
-  socialIcons:
-    - name: vk
-      url: "https://facebook.com/"
-    - name: vkontakte
-      url: "https://twitter.com/"
-    - name: github
-      url: "https://github.com/"
+  # socialIcons:
+  #   - name: vk
+  #     url: "https://facebook.com/"
+  #   - name: vkontakte
+  #     url: "https://twitter.com/"
+  #   - name: github
+  #     url: "https://github.com/"
 
   cover:
     linkFullImages: true
