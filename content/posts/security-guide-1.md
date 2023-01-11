@@ -33,5 +33,4 @@ categories: ["Безопасность"]
 
 Давайте посмотрим на изображение ниже, как вещи связаны в этом сценарии (скорее всего!);
 
-https://i.imgur.com/Tculp33.png
-(https://i.imgur.com/Tculp33.png)
+![]static/img/sg1-01.png
