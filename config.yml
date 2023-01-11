@@ -1,6 +1,6 @@
 baseURL: "https://naughty-wiles-fd4c60.netlify.app"
 languageCode: en-us
-title: Demo for Hugo!
+title: Demo for Hugo
 theme: PaperMod
 
 params:
