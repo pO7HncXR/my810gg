@@ -6,17 +6,17 @@ theme: PaperMod
 params:
   profileMode:
   enabled: true
-      title: "DevMod" # optional default will be site title
-      subtitle: "This is subtitle"
-      imageUrl: "" # optional
-      imageTitle: "" # optional
-      imageWidth: 120 # custom size
-      imageHeight: 120 # custom size
-      buttons:
-        - name: Archive
-        url: "/archive"
-        - name: Github
-        url: "https://github.com/"
+    title: "DevMod" # optional default will be site title
+    subtitle: "This is subtitle"
+    imageUrl: "" # optional
+    imageTitle: "" # optional
+    imageWidth: 120 # custom size
+    imageHeight: 120 # custom size
+    buttons:
+      - name: Archive
+      url: "/archive"
+      - name: Github
+      url: "https://github.com/"
   socialIcons:
     - name: vk
       url: "https://vk.com/"
