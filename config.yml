@@ -16,7 +16,7 @@ params:
       - name: Статьи
         url: "/posts"
       - name: Telegram
-        url: "https://github.com/"
+        url: "https://t.me/devmodd"
   # socialIcons:
   #   - name: telegram
   #     url: "https://google.com/"
